@@ -73,7 +73,7 @@ Each customer is assigned to a cluster that reflects their behavior profile. The
    ```
 
 3. Run the notebook:
-   Open `CaseySoh.ipynb` in Jupyter and run all cells.
+   Open `regression.ipynb` in Jupyter and run all cells.
 
 ---
 
